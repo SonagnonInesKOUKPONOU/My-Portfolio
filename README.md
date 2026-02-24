@@ -1,4 +1,4 @@
-# 📊 Inès KOUKPONOU | Chargée d'études statistiques & Data Analyst
+# 📊| Chargée d'études statistiques & Data Analyst
 **Transformer la donnée en leviers de décision stratégiques** 💡
 
 ---
