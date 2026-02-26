@@ -1,14 +1,14 @@
-# 📊| Chargée d'études statistiques & Data Analyst
+# 📊 Chargée d'études statistiques & Data Analyst
 **Transformer la donnée en leviers de décision stratégiques** 💡
 
 ---
 
-## 👋 À propos de moi
-[cite_start]Étudiante en **Master 2 Économétrie et Data Science** à l'Aix-Marseille School of Economics (AMSE)[cite: 3, 27]. [cite_start]Je combine une solide rigueur scientifique issue de l'économie avec des compétences avancées en programmation pour résoudre des problématiques concrètes[cite: 8, 9].
+## À propos de moi
+Étudiante en **Master 2 Économétrie et Data Science** à l'Aix-Marseille School of Economics (AMSE). Je combine une solide rigueur scientifique issue de l'économie avec des compétences avancées en programmation pour résoudre des problématiques concrètes.
 
-- [cite_start]🔍 **Spécialité** : Études statistiques, modélisation économétrique et machine learning[cite: 9, 14].
-- [cite_start]💼 **Expérience marquante** : Stage au **CNRS** (Automatisation API, collecte via LimeSurvey et rédaction de synthèses statistiques)[cite: 12, 13, 14].
-- [cite_start]🎯 **Objectif** : Stage de fin d'études à partir d'**AVRIL 2026**[cite: 9].
+- 🔍 **Spécialité** : Études statistiques, modélisation économétrique et machine learning[cite: 9, 14].
+- 💼 **Expérience marquante** : Stage au **CNRS** (Automatisation API, collecte via LimeSurvey et rédaction de synthèses statistiques)[cite: 12, 13, 14].
+- 🎯 **Objectif** : Stage de fin d'études à partir d'**AVRIL 2026**[cite: 9].
 
 ---
 
