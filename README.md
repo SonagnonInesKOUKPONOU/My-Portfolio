@@ -6,9 +6,9 @@
 ## À propos de moi
 Étudiante en **Master 2 Économétrie et Data Science** à l'Aix-Marseille School of Economics (AMSE). Je combine une solide rigueur scientifique issue de l'économie avec des compétences avancées en programmation pour résoudre des problématiques concrètes.
 
-- 🔍 **Spécialité** : Études statistiques, modélisation économétrique et machine learning[cite: 9, 14].
+- 🔍 **Spécialité** : Études statistiques, modélisation économétrique et machine learning.
 - 💼 **Expérience marquante** : Stage au **CNRS** (Automatisation API, collecte via LimeSurvey et rédaction de synthèses statistiques)[cite: 12, 13, 14].
-- 🎯 **Objectif** : Stage de fin d'études à partir d'**AVRIL 2026**[cite: 9].
+- 🎯 **Objectif** : Stage de fin d'études à partir d'**AVRIL 2026**.
 
 ---
 
@@ -21,38 +21,39 @@
 
 ### **Data Visualization & Business Intelligence**
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-* [cite_start]**KPIs** : Suivi de Chiffre d'affaires, panier moyen, évolution des ventes[cite: 18].
-* [cite_start]**Reporting** : R-Shiny, Tableaux de bord interactifs, Cartographies (Leaflet)[cite: 16].
+* **KPIs** : Suivi de Chiffre d'affaires, panier moyen, évolution des ventes.
+* **Reporting** : R-Shiny, Tableaux de bord interactifs, Cartographies (Leaflet).
 
 ---
 
 ## 📂 Sélection de Projets Data
 
 ### 📈 [Churn Prediction Model](https://github.com/InesKOUKP/Projets-)
-* [cite_start]**Objectif** : Prédire l'attrition client via le Machine Learning[cite: 19].
-* [cite_start]**Stack** : Python (Scikit-learn, Pandas, RF)[cite: 19].
+* **Objectif** : Prédire l'attrition client via le Machine Learning.
+* **Stack** : Python (Scikit-learn, Pandas, RF).
 
 ### 🕸 [Modélisation du Trafic Web](https://github.com/InesKOUKP/Projets-)
-* [cite_start]**Objectif** : Prédiction des recettes sur les pages à fort trafic[cite: 21].
-* [cite_start]**Stack** : R (dplyr, ggplot2, xgboost, catboost)[cite: 22].
+* **Objectif** : Prédiction des recettes sur les pages à fort trafiC.
+* **Stack** : R (dplyr, ggplot2, xgboost, catboost).
 
 ### 📊 [Analyse des Ventes Commerciales](https://github.com/InesKOUKP/Projets-)
-* [cite_start]**Objectif** : Création et suivi de KPIs stratégiques sous Power BI[cite: 18].
-* [cite_start]**Insight** : Analyse du panier moyen et top produits[cite: 18].
+* **Objectif** : Création et suivi de KPIs stratégiques sous Power BI.
+* **Insight** : Analyse du panier moyen et top produits.
 
 ---
 
 ## 🎓 Parcours Académique
-* [cite_start]**2025 - 2026** : Master 2 & Magistère 3 Économétrie Data Science — **AMSE**[cite: 24, 27].
-* [cite_start]**2024 - 2025** : Master 1 & Magistère 2 Économétrie-Statistiques — **AMSE**[cite: 25].
-* [cite_start]**2019 - 2022** : Licence Gestion de projets — **Mention Très Bien** (ENEAM)[cite: 28, 29].
+* **2025 - 2026** : Master 2 & Magistère 3 Économétrie Data Science — **AMSE**.
+* **2024 - 2025** : Master 1 & Magistère 2 Économétrie-Statistiques — **AMSE**.
+* **2023 - 2024** : Licence Economie-Finance - **AMSE**.
+* **2019 - 2022** : Licence Gestion de projets — **Mention Très Bien** (ENEAM).
 
 ---
 
 ## 📫 Connectons-nous !
-* [cite_start]**LinkedIn** : [linkedin.com/in/InesKOUKPONOU](https://linkedin.com/in/InesKOUKΡΟΝΟΥ) [cite: 5]
-* [cite_start]**Email** : [koukponouines@gmail.com](mailto:koukponouines@gmail.com) [cite: 4]
-* **Langues** : Français (Courant) 🇫🇷 | [cite_start]Anglais (Opérationnel) 🇬🇧 [cite: 41]
+* **LinkedIn** : [linkedin.com/in/InesKOUKPONOU](https://linkedin.com/in/InesKOUKΡΟΝΟΥ)
+* **Email** : [koukponouines@gmail.com](mailto:koukponouines@gmail.com) 
+* **Langues** : Français (Courant) | Anglais (Opérationnel) 
 
 ---
-*Dernière mise à jour : Février 2026 **Localisation** : Aix-Marseille, France [cite: 38]
+*Dernière mise à jour : Février 2026 **Localisation** : Aix-Marseille, France.
