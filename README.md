@@ -1,14 +1,13 @@
-<img src="img/foto_forum.JPG" width="180" align="right" style="border-radius: 10px; margin-left: 20px;">
 
-# À propos de moi
-Étudiante en **Master 2 Économétrie et Data Science**...
-# 📊 Chargée d'études statistiques & Data Analyst
-**Transformer la donnée en leviers de décision stratégiques** 💡
+<img src="img/foto_forum.JPG" width="180" align="right" style="border-radius: 10px; margin-left: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
 
----
+# KOUKPONOU Sonagnon Inès
+## 📊 Chargée d'études statistiques & Data Analyst
 
-## À propos de moi
-Étudiante en **Master 2 Économétrie et Data Science** à l'Aix-Marseille School of Economics (AMSE). Je combine une solide rigueur scientifique issue de l'économie avec des compétences avancées en programmation pour résoudre des problématiques concrètes.
+**Transformer la donnée en leviers de décision stratégiques 💡**
+
+### À propos de moi
+Étudiante en **Master 2 Économétrie et Data Science** à l'Aix-Marseille School of Economics (AMSE)...
 
 - 🔍 **Spécialité** : Études statistiques, modélisation économétrique et machine learning.
 - 💼 **Expérience marquante** : Stage au **CNRS** (Automatisation API, collecte via LimeSurvey et rédaction de synthèses statistiques)[cite: 12, 13, 14].
