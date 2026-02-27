@@ -10,7 +10,7 @@
 Étudiante en **Master 2 Économétrie et Data Science** à l'Aix-Marseille School of Economics (AMSE)...
 
 - 🔍 **Spécialité** : Études statistiques, modélisation économétrique et machine learning.
-- 💼 **Expérience marquante** : Stage au **CNRS** (Automatisation API, collecte via LimeSurvey et rédaction de synthèses statistiques)[cite: 12, 13, 14].
+- 💼 **Expérience marquante** : Stage au **CNRS** (Automatisation API, collecte via LimeSurvey et rédaction de synthèses statistiques).
 - 🎯 **Objectif** : Stage de fin d'études à partir d'**AVRIL 2026**.
 
 ---
@@ -19,8 +19,8 @@
 
 ### **Statistiques & Programmation**
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SAS](https://img.shields.io/badge/SAS-%23004878.svg?style=for-the-badge)
-* [cite_start]**Modélisation** : Random Forest, XGBoost, Catboost, LPM, Prédiction de Churn[cite: 19, 21, 22].
-* [cite_start]**Data Prep** : Dplyr, Pandas, Numpy, SQL, NoSQL (MongoDB)[cite: 19, 20, 22].
+* [cite_start]**Modélisation** : Random Forest, XGBoost, Catboost, LPM, Prédiction de Churn.
+* [cite_start]**Data Prep** : Dplyr, Pandas, Numpy, SQL, NoSQL (MongoDB).
 
 ### **Data Visualization & Business Intelligence**
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -57,7 +57,7 @@
 ---
 
 ## 📫 Connectons-nous !
-* **LinkedIn** : [linkedin.com/in/InesKOUKPONOU](https://linkedin.com/in/InesKOUKΡΟΝΟΥ)
+* **LinkedIn** : [linkedin.com/in/InesKOUKPONOU](https://www.linkedin.com/in/in%C3%A8s-koukponou-600395221/)
 * **Email** : [koukponouines@gmail.com](mailto:koukponouines@gmail.com) 
 * **Langues** : Français (Courant) | Anglais (Opérationnel) 
 
