@@ -1,4 +1,4 @@
-
+<img src="img/foto_forum.JPG" width="180" align="right" style="border-radius: 10px; margin-left: 20px;">
 
 # À propos de moi
 Étudiante en **Master 2 Économétrie et Data Science**...
