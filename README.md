@@ -28,6 +28,10 @@
 
 ## 📂 Sélection de Projets Data
 
+### 📈 [Dashboard for surfers]([https://github.com/InesKOUKP/Projets-](https://github.com/SonagnonInesKOUKPONOU/Dashboard-for-surfers))
+* **Objectif** : Prédire l'attrition client via le Machine Learning.
+* **Stack** : Python (Scikit-learn, Pandas, RF).
+
 ### 📈 [Churn Prediction Model](https://github.com/InesKOUKP/Projets-)
 * **Objectif** : Prédire l'attrition client via le Machine Learning.
 * **Stack** : Python (Scikit-learn, Pandas, RF).
