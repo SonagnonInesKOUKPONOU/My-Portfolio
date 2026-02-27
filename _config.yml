@@ -1,6 +1,6 @@
 title: "KOUKPONOU Sonagnon Inès"
-description: Data-Analysis-Workflow
+description: "Data Analyst" # Une description plus courte évite les chevauchements
 logo: img/foto_forum.JPG
-show_downloads: false
+show_downloads: false # Change 'true' en 'false' pour supprimer les gros boutons gris en bas
 theme: jekyll-theme-minimal
 lang: fr
