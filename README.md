@@ -1,3 +1,7 @@
+
+
+# À propos de moi
+Étudiante en **Master 2 Économétrie et Data Science**...
 # 📊 Chargée d'études statistiques & Data Analyst
 **Transformer la donnée en leviers de décision stratégiques** 💡
 
