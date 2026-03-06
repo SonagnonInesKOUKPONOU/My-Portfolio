@@ -11,7 +11,6 @@
 
 - 🔍 **Spécialité** : Études statistiques, modélisation économétrique et machine learning.
 - 💼 **Expérience marquante** : Stage au **CNRS** (Automatisation API, collecte via LimeSurvey et rédaction de synthèses statistiques).
-- 🎯 **Objectif** : Stage de fin d'études à partir d'**AVRIL 2026**.
 
 ---
 
