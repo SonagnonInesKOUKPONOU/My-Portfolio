@@ -34,17 +34,15 @@
 * **Objectif** : Prédire l'attrition client via le Machine Learning.
 * **Stack** : Python (Scikit-learn, Pandas, RF).
 
+### 📊 [Analyse des Ventes Commerciales](https://github.com/SonagnonInesKOUKPONOU/Analyse-des-ventes-commerciales)
+* **Objectif** : Création et suivi de KPIs stratégiques sous Power BI.
+* **Insight** : Analyse du panier moyen et top produits.  
+
 ### 📈 [Churn Prediction Model](https://github.com/InesKOUKP/Projets-)
 * **Objectif** : Prédire l'attrition client via le Machine Learning.
 * **Stack** : Python (Scikit-learn, Pandas, RF).
 
-### 🕸 [Modélisation du Trafic Web](https://github.com/InesKOUKP/Projets-)
-* **Objectif** : Prédiction des recettes sur les pages à fort trafiC.
-* **Stack** : R (dplyr, ggplot2, xgboost, catboost).
 
-### 📊 [Analyse des Ventes Commerciales](https://github.com/InesKOUKP/Projets-)
-* **Objectif** : Création et suivi de KPIs stratégiques sous Power BI.
-* **Insight** : Analyse du panier moyen et top produits.
 
 ---
 
