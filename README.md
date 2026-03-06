@@ -59,5 +59,3 @@
 * **Email** : [koukponouines@gmail.com](mailto:koukponouines@gmail.com) 
 * **Langues** : Français (Courant) | Anglais (Opérationnel) 
 
----
-*Dernière mise à jour : Février 2026 **Localisation** : Aix-Marseille, France.
